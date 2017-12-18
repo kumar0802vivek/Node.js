@@ -1,7 +1,7 @@
 {
-  "name": "node-with-mongo",
+  "name": "node-restful",
   "version": "2.0.0",
-  "description": "this is sample node application using node js and mongo db just for the learning point of view",
+  "description": "this is sample node application using restful",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,5 +22,16 @@
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar0802vivek/Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumar0802vivek/Node.js/issues"
+  },
+  "homepage": "https://github.com/kumar0802vivek/Node.js#readme",
+  "keywords": [
+    "node-restful"
+  ]
 }

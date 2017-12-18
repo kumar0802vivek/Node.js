@@ -29,3 +29,6 @@ input{
 .pac-container:after{
     content:none !important;
 }
+.navbar-links{
+	float: right;
+}
